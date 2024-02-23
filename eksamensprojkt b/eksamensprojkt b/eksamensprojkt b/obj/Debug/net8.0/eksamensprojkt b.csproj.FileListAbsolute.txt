@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\bin\Debug\net8.0\eksamensprojkt b.exe
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\bin\Debug\net8.0\eksamensprojkt b.deps.json
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\bin\Debug\net8.0\eksamensprojkt b.runtimeconfig.json
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\bin\Debug\net8.0\eksamensprojkt b.dll
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\bin\Debug\net8.0\eksamensprojkt b.pdb
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\eksamensprojkt b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\eksamensprojkt b.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\eksamensprojkt b.AssemblyInfo.cs
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\eksamensprojkt b.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\eksamensprojkt b.sourcelink.json
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\eksamensprojkt b.dll
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\refint\eksamensprojkt b.dll
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\eksamensprojkt b.pdb
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\eksamensprojkt b.genruntimeconfig.cache
+C:\Users\victo\Documents\GitHub\futuregamemakerjam2024\programmering-exsams-\eksamensprojkt b\eksamensprojkt b\eksamensprojkt b\obj\Debug\net8.0\ref\eksamensprojkt b.dll
